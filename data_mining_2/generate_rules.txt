@@ -1,0 +1,24 @@
+frozenset({'Permit Type = 8'})-->frozenset({'Current Status = complete'}) support:0.5594669504318345 conf:0.6387156468735212
+frozenset({'Current Status = complete'})-->frozenset({'Permit Type = 8'}) support:0.5594669504318345 conf:0.9315477723409734
+frozenset({'Permit Type = 8'})-->frozenset({'Existing Construction Type = 5.0'}) support:0.6254732856541859 conf:0.7140718034199504
+frozenset({'Existing Construction Type = 5.0'})-->frozenset({'Permit Type = 8'}) support:0.6254732856541859 conf:0.8919188354653727
+frozenset({'Proposed Construction Type = 5.0'})-->frozenset({'Existing Construction Type = 5.0'}) support:0.6925561137370387 conf:0.9786679722333933
+frozenset({'Existing Construction Type = 5.0'})-->frozenset({'Proposed Construction Type = 5.0'}) support:0.6925561137370387 conf:0.9875782973092191
+frozenset({'Permit Type = 8'})-->frozenset({'Proposed Construction Type = 5.0'}) support:0.6324519290257121 conf:0.7220389741561368
+frozenset({'Proposed Construction Type = 5.0'})-->frozenset({'Permit Type = 8'}) support:0.6324519290257121 conf:0.8937332797118428
+frozenset({'Permit Type = 8'})-->frozenset({'Existing Construction Type = 5.0', 'Proposed Construction Type = 5.0'}) support:0.6248422381152714 conf:0.7133513677682741
+frozenset({'Proposed Construction Type = 5.0'})-->frozenset({'Existing Construction Type = 5.0', 'Permit Type = 8'}) support:0.6248422381152714 conf:0.8829798394852337
+frozenset({'Existing Construction Type = 5.0'})-->frozenset({'Proposed Construction Type = 5.0', 'Permit Type = 8'}) support:0.6248422381152714 conf:0.8910189677988531
+frozenset({'Current Status = complete'})-->frozenset({'Permit Type = 8'}) support:0.5594669504318345 conf:0.9315477723409734
+frozenset({'Permit Type = 8'})-->frozenset({'Current Status = complete'}) support:0.5594669504318345 conf:0.6387156468735212
+frozenset({'Current Status = complete'})-->frozenset({'Permit Type = 8'}) support:0.5594669504318345 conf:0.9315477723409734
+frozenset({'Permit Type = 8'})-->frozenset({'Current Status = complete'}) support:0.5594669504318345 conf:0.6387156468735212
+frozenset({'Permit Type = 8'})-->frozenset({'Existing Construction Type = 5.0'}) support:0.6254732856541859 conf:0.7140718034199504
+frozenset({'Existing Construction Type = 5.0'})-->frozenset({'Permit Type = 8'}) support:0.6254732856541859 conf:0.8919188354653727
+frozenset({'Proposed Construction Type = 5.0'})-->frozenset({'Existing Construction Type = 5.0'}) support:0.6925561137370387 conf:0.9786679722333933
+frozenset({'Existing Construction Type = 5.0'})-->frozenset({'Proposed Construction Type = 5.0'}) support:0.6925561137370387 conf:0.9875782973092191
+frozenset({'Proposed Construction Type = 5.0'})-->frozenset({'Permit Type = 8'}) support:0.6324519290257121 conf:0.8937332797118428
+frozenset({'Permit Type = 8'})-->frozenset({'Proposed Construction Type = 5.0'}) support:0.6324519290257121 conf:0.7220389741561368
+frozenset({'Proposed Construction Type = 5.0'})-->frozenset({'Existing Construction Type = 5.0', 'Permit Type = 8'}) support:0.6248422381152714 conf:0.8829798394852337
+frozenset({'Permit Type = 8'})-->frozenset({'Existing Construction Type = 5.0', 'Proposed Construction Type = 5.0'}) support:0.6248422381152714 conf:0.7133513677682741
+frozenset({'Existing Construction Type = 5.0'})-->frozenset({'Permit Type = 8', 'Proposed Construction Type = 5.0'}) support:0.6248422381152714 conf:0.8910189677988531
